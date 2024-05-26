@@ -5,6 +5,9 @@
 
 The Engineering Project Proposal Generator is a Streamlit web application designed to help users quickly generate comprehensive project proposals for engineering projects. By leveraging the Gemini API, the app generates detailed project proposals based on user inputs such as project name, description, and target audience.
 
+## Public Streamlit App
+https://mainpy-d4tatysvgwgeelcjp9hxce.streamlit.app/
+
 ## Features
 
 - **User Input Forms**: Simple and intuitive input forms for project details.
