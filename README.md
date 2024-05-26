@@ -7,6 +7,7 @@ The Engineering Project Proposal Generator is a Streamlit web application design
 
 ## Public Streamlit App
 https://mainpy-d4tatysvgwgeelcjp9hxce.streamlit.app/
+Message me if it is on sleep mode.
 
 ## Features
 
